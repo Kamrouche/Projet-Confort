@@ -10,3 +10,4 @@ bâtiments". L'objectif de ce projet est de développer un modèle statique pour
 et gérer la consommation d'énergie dans notre maison. Un modèle statique est un outil de
 simulation informatique qui permet de représenter le comportement d'un système à un instant
 donné, sans prendre en compte les variations temporelles.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kamrouche/Projet-Confort/HEAD)
